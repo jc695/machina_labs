@@ -1,4 +1,8 @@
-.python-version
+\.python-version
 solution.ipynb
 data/raw.csv
 .ipynb_checkpoints
+data/machina.tinyflux
+sample.parquet
+machina_de_hw_draft1.ipynb
+\.DS_Store
